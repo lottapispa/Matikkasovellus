@@ -4,7 +4,6 @@ Tietokantasovellus 2022
 Aiheeni on opetussovellus esimerkkiaiheista:
 
 Sovelluksen avulla voidaan järjestää verkkokursseja alkeismatikasta, joissa on tekstimateriaalia ja automaattisesti tarkastettavia tehtäviä. Jokainen käyttäjä on opettaja tai opiskelija.
-
 Sovelluksen ominaisuuksia:
 
 - Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
@@ -14,3 +13,6 @@ Sovelluksen ominaisuuksia:
 - Opettaja pystyy luomaan uuden kurssin, muuttamaan olemassa olevaa kurssia ja poistamaan kurssin.
 - Opettaja pystyy lisäämään kurssille tekstimateriaalia ja tehtäviä. Tehtävä voi olla ainakin monivalinta tai tekstikenttä, johon tulee kirjoittaa oikea vastaus.
 - Opettaja pystyy näkemään kurssistaan tilaston, keitä opiskelijoita on kurssilla ja mitkä kurssin tehtävät kukin on ratkonut.
+
+Nykyinen tilanne:
+Etusivu näyttää oikealta viimeistelyä vailla. Linkit eivät vielä toimi. Muut sivut ovat vielä työn alla. Sovellus ei ole niin pitkällä kuin välipalautuksen tavoitteena oli. Sitä ei voi testata kauhean hyvin herokussa.

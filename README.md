@@ -15,4 +15,4 @@ Sovelluksen ominaisuuksia:
 - Opettaja pystyy näkemään kurssistaan tilaston, keitä opiskelijoita on kurssilla ja mitkä kurssin tehtävät kukin on ratkonut.
 
 #### Nykyinen tilanne:
-Etusivu näyttää oikealta viimeistelyä vailla. Linkit eivät vielä toimi. Muut sivut ovat vielä työn alla. Sovellus ei ole niin pitkällä kuin välipalautuksen tavoitteena oli. Sitä ei voi testata kauhean hyvin herokussa.
+Etusivu näyttää oikealta viimeistelyä vailla. Linkit eivät vielä toimi. Muut sivut ovat vielä työn alla. Sovellus ei ole niin pitkällä kuin välipalautuksen tavoitteena oli. Sovellusta ei ole ladattu herokuun.

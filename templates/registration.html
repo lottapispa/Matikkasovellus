@@ -1,0 +1,20 @@
+<title>Matikkasovellus</title>
+<h1>Matikkasovellus</h1>
+<p>{{ message }}</p>
+<form action="/result" method="POST">
+Käyttäjätunnus:
+<input type="text" name="name">
+<br>
+Salasana:
+<input type="text" name="password">
+<br>
+Salasana uudestaan:
+<input type="text" name="password">
+<br>
+Rooli:
+<select name="rooli">
+<option value="ok" selected> opiskelija
+<option value="op"> opettaja
+</select>
+<input type="submit" value="Luo tunnus">
+</form>

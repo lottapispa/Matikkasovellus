@@ -1,0 +1,10 @@
+<title>Matikkasovellus</title>
+<h1>Matikkasovellus</h1>
+<p>
+<a href="@app.route/login">Kirjaudu sisään</a>
+<p><b>{{ message }}</b></p>
+<ul>
+{% for item in items %}
+<li> <a href="@app.route/">{{ item }}</a>
+{% endfor %}
+</ul>
